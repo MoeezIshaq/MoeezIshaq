@@ -13,7 +13,7 @@ I’m eager to apply my skills in real-world settings, contribute to impactful p
 **Expected Graduation Year: 2028**
 
 ### 📝 Languages
-![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg) 
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
