@@ -1,6 +1,9 @@
 # Moeez Ishaq
 
-## About Me
+## About Me 👋
+I’m a Computer Science and Business student at Wilfrid Laurier University with a strong interest in creating practical, technology-driven solutions. My experience spans programming, algorithm design, and software development through coursework, internships, and personal projects.
+
+I’m eager to apply my skills in real-world settings, contribute to impactful projects, and continue growing as a developer. Always curious and driven, I seek opportunities where I can collaborate, learn, and deliver innovative results.
 
 ## Technologies
 
