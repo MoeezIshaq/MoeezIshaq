@@ -6,9 +6,11 @@ I’m a Computer Science and Business student with a strong interest in creating
 I’m eager to apply my skills in real-world settings, contribute to impactful projects, and continue growing as a developer. Always curious and driven, I seek opportunities where I can collaborate, learn, and deliver innovative results.
 
 ## 🎓 Education
-**Wilfrid Laurier University** - Bachelor of Science, BSc - Computer Science & Bachelor of Business Administration, BBA
-Third Year Student
+**Wilfrid Laurier University** - *Bachelor of Science, BSc - Computer Science & Bachelor of Business Administration, BBA*
+
 **GPA: 3.9 | Dean's List**
+
+**Expected Graduation Year: 2028**
 
 ## 🛠️ Technologies
 
