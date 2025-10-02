@@ -21,6 +21,11 @@ I’m eager to apply my skills in real-world settings, contribute to impactful p
 ### 🧰 Tools
 
 ### 🏅 Certifications
+![Salesforce](https://img.shields.io/badge/-Salesforce%20Platform%20Developer%201-00A1E0?style=flat&logo=salesforce&logoColor=white)  
+![Salesforce](https://img.shields.io/badge/-Salesforce%20Administrator-00A1E0?style=flat&logo=salesforce&logoColor=white)  
+![Salesforce](https://img.shields.io/badge/-Salesforce%20AI%20Associate-00A1E0?style=flat&logo=salesforce&logoColor=white)  
+![Salesforce](https://img.shields.io/badge/-Salesforce%20Platform%20App%20Builder-00A1E0?style=flat&logo=salesforce&logoColor=white)  
+![Databricks](https://img.shields.io/badge/-Databricks%20Fundamentals-F16E2E?style=flat&logo=databricks&logoColor=white)
 <!--
 **MoeezIshaq/MoeezIshaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
