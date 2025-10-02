@@ -12,13 +12,30 @@ I’m eager to apply my skills in real-world settings, contribute to impactful p
 
 **Expected Graduation Year: 2028**
 
-## 🛠️ Technologies
-
 ### 📝 Languages
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
-### 📦 Frameworks & Libraries
-
-### 🧰 Tools
+### 🛠️ Tools & Technologies
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Databricks](https://img.shields.io/badge/-Databricks-F16E2E?style=flat&logo=databricks&logoColor=white)
+![Collibra](https://img.shields.io/badge/-Collibra-FF6F61?style=flat)
+![ArcGIS](https://img.shields.io/badge/-ArcGIS-00ADEF?style=flat)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![p5.js](https://img.shields.io/badge/-p5.js-ED225D?style=flat)
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🏅 Certifications
 ![Salesforce](https://img.shields.io/badge/-Salesforce%20Platform%20Developer%201-00A1E0?style=flat&logo=salesforce&logoColor=white)  
